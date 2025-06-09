@@ -7,3 +7,4 @@
   - "{{ component }}"
 
 # ansible-playbook -i inventory.ini -e "component=catalogue" main.yaml
+#ansible-playbook -i inventory.ini mysql.yaml -e "component=mysql"
